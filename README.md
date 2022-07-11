@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Ahooj</h1>
+<h1 style="color: red;">Ahooj</h1>
 
 
 | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg =40x40) | ![](https://progress-bar.dev/99/?title=HTML&width=120&color=black =x40)|
