@@ -1,4 +1,4 @@
-<h1>Čauky! 👋    <img src="https://gitwar.herokuapp.com/badge?username=CZmatyasZERO&style=flat-square&label=ZOBRAZENÍ"></h1>
+<h1>Čauky! 👋    <img src="https://gitwar.herokuapp.com/badge?username=CZmatyasZERO&style=flat-square&label=ZOBRAZENI"></h1>
 <p>Moje jméno je Matyáš a tohle je můj Github profil...</p>
 
 <p align="center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Random meme" width="300" height="300"></p>
