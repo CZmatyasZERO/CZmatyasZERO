@@ -1,5 +1,7 @@
-<h1>Čauky! 👋</h1>
+<h1>Čauky! 👋    <img src="https://gitwar.herokuapp.com/badge?username=CZmatyasZERO&style=flat-square&label=ZOBRAZENÍ"></h1>
 <p>Moje jméno je Matyáš a tohle je můj Github profil...</p>
+
+<p align="center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Random meme" width="300" height="300"></p>
 
 <h2>Jazyky (programovací🤖)</h2>
 <ul>
@@ -71,3 +73,5 @@
 
 <h2>Projekty 📦</h2>
 <p>Ukázkové projekty v repozitářích</p>
+
+<a href="https://github.com/CZmaytasZERO/github-profile-trophy"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=CZmatyasZERO&theme=onedark&row=1"></p></a>
